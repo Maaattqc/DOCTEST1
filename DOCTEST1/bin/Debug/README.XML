@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DOCTEST1</name>
+    </assembly>
+    <members>
+        <member name="T:DOCTEST1.Chien">
+            <summary>
+            Ceci est une classe qui genere des chiens
+            </summary>
+        </member>
+        <member name="M:DOCTEST1.Chien.#ctor(System.Int32,System.Int32)">
+            <summary>
+            le constructeur par defaut crééer des chiens
+            </summary>
+            <param name="nombreDePattes"></param>
+            <param name="nombreDeTête"></param>
+        </member>
+        <member name="M:DOCTEST1.Chien.MultiplierTete(System.Int32)">
+            <summary>
+            la fonction multiplie les tetes
+            </summary>
+            <param name="nombre"></param>
+        </member>
+        <member name="M:DOCTEST1.Chien.ReturnBeautifulSentence">
+            <summary>
+            retourne une belle phrase
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

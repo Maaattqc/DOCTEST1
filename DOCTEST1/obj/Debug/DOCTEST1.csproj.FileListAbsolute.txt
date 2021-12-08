@@ -1,0 +1,7 @@
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\bin\Debug\DOCTEST1.dll
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\bin\Debug\DOCTEST1.pdb
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\obj\Debug\DOCTEST1.csprojAssemblyReference.cache
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\obj\Debug\DOCTEST1.csproj.CoreCompileInputs.cache
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\obj\Debug\DOCTEST1.dll
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\obj\Debug\DOCTEST1.pdb
+C:\Users\2033883\Source\Repos\DOCTEST1\DOCTEST1\bin\Debug\README.XML
